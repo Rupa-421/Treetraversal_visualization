@@ -1,0 +1,126 @@
+body
+{
+background-image:url("https://images.unsplash.com/photo-1613047880926-105f6e0662ec?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80");
+background-repeat:repeat;
+background-size:cover;
+}
+
+.item1
+{
+text-align:center;
+font-size:120px;
+color:blue;
+justify-content:center;
+height:200px;
+width:200px;
+box-shadow:0px 0px 0px 5px orange inset;
+border:2px solid orange;
+border-radius:50%;
+margin:1% 0% 0% 50%;
+}
+#left
+{
+width:140px;
+height:140px;
+margin:0% 0% 0% 47%;
+}
+#right
+{
+width:150px;
+height:150px;
+margin:0% 0% 0% 0%;
+}
+.item2
+{
+text-align:center;
+font-size:120px;
+color:blue;
+justify-content:center;
+height:200px;
+width:200px;
+box-shadow:0px 0px 0px 5px orange inset;
+border:2px solid orange;
+border-radius:50%;
+margin:0% 0% 0% 40%;
+}
+.item3
+{
+text-align:center;
+font-size:120px;
+color:blue;
+justify-content:center;
+height:200px;
+width:200px;
+box-shadow:0px 0px 0px 5px orange inset;
+border:2px solid orange;
+border-radius:55%;
+margin:0% 0% 0% 8%;
+}
+.grid
+{
+display:flex;
+}
+.flex
+{
+display:flex;
+}
+.button-1
+{
+ display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.button-1:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.button-2:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.button-3:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.button-2
+{
+ display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.button-3
+{
+ display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
