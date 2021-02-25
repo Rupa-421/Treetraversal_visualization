@@ -7,3 +7,6 @@
 
 [DEMO](https://rupa-421.github.io/Treetraversal_visualization/)
    
+   * In this demo i used an example of a binary search tree traversal.
+   * Drop a pull request if you found a new feature :sparkles:
+   * Don't forget to star :star: if you found this interesting. 
