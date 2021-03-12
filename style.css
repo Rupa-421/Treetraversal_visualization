@@ -24,6 +24,10 @@ width:140px;
 height:140px;
 margin:0% 0% 0% 47%;
  -webkit-transform:rotate(90deg);
+ -moz-transform:rotate(90deg);
+ -o-transform:rotate(90deg);
+ -ms-transform:rotate(90deg);
+transform:rotate(90deg);
 }
 #right
 {
